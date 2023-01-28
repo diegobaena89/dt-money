@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2023-01-26T20:02:56.913Z"
+    },
+    {
+      "description": "Salário mensal",
+      "price": 60000,
+      "category": "Emprego",
+      "type": "income",
+      "createdAt": "2023-01-28T12:42:53.405Z",
+      "id": 4
+    },
+    {
+      "description": "Iogurte",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-01-28T12:55:39.899Z",
+      "id": 5
     }
   ]
 }
